@@ -1,4 +1,4 @@
-# Use this space to code along with the readme
+authenticate_or_request_with_http_basic# Use this space to code along with the readme
 
 phrase = "Hello World!"
 puts phrase
